@@ -153,3 +153,11 @@ dialog {
     color: rgb(164, 106, 231);
     margin-top: 5rem;
 }
+
+#parte-2 h2 {
+    font-size: 1.8rem;
+}
+
+#dedicatoria h2 {
+    font-size: 1.5rem;
+}
