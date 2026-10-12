@@ -1,0 +1,155 @@
+ body {
+    padding: 0;
+ }
+ 
+ #tituloImportante {
+    text-align: center;
+    font-size: 3.5rem;
+    margin-top: 5rem;
+    margin-bottom: 2rem;
+}
+
+#teQuiero-1 {
+    display: grid;
+    grid-template-columns: 5fr 1.2fr;
+    grid-gap: 3rem;
+    padding-left: 3.5rem;
+    padding-right: 3.5rem;
+    align-items: center;
+}
+
+#teQuiero-1 p {
+    margin-top: 3.5rem;
+    font-size: 1.1rem;
+    line-height: 1.7rem;
+    margin: auto;
+    text-align: center;
+    color: rgb(201, 41, 201);
+    padding: 2rem;
+    width: 100%;
+    background-color: #ffc4c9;
+    border: 3px solid #ffffff;
+    border-radius: 3rem;
+}
+
+#teQuiero-1 #fotoDeElla {
+    background-image: url(../img/gif-teQuiero-1.gif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 25rem;
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: 0 0px 15px rgba(0, 0, 0, 0.4);
+}
+
+#teQuiero-2 {
+    display: grid;
+    grid-template-columns: 2fr 5fr;
+    grid-gap: 3rem;
+    padding-left: 3.5rem;
+    padding-right: 3.5rem;
+    align-items: center;
+    margin-top: 5rem;
+    padding-top: 10rem;
+    padding-bottom: 10rem;
+    background: linear-gradient(to bottom,
+            rgba(0, 0, 0, 0) 0%,
+            rgba(0, 0, 0, 1) 10%,
+            rgba(0, 0, 0, 1) 90%,
+            rgba(0, 0, 0, 0) 100%
+        );
+
+}
+
+#teQuiero-2 p {
+    margin-top: 3.5rem;
+    font-size: 1.1rem;
+    line-height: 1.7rem;
+    margin: auto;
+    text-align: center;
+    color: rgb(201, 41, 201);
+    padding: 2rem;
+    width: 100%;
+    background-color: #ffc4c9;
+    border: 3px solid #ffffff;
+    border-radius: 3rem;
+}
+
+#teQuiero-2 #cancion {
+    height: 352px;
+    width: 100%;
+    margin: 0;
+}
+
+.contenedor-tarjetas {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 1.6rem;
+    max-width: 800px;
+    margin: 3rem auto 3rem auto;
+}
+
+.tarjeta {
+    background-color: #ff7373;
+    border: 2px solid #ddd;
+    border-radius: 8px;
+    padding: 2rem;
+    text-align: center;
+    cursor: pointer;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+dialog {
+    border: none;
+    border-radius: 0.8rem;
+    padding: 1.5rem;
+    max-width: 31.25rem;
+    width: 90%;
+    margin: auto;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+    transition: display 0.4s allow-discrete, overlay 0.4s allow-discrete, opacity 0.4s ease;
+    opacity: 0;
+    background-color: #fec9c9;
+}
+
+.contenido-modal {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    text-align: center;
+}
+
+.contenido-modal img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 6px;
+}
+
+#modal-titulo {
+    font-size: 1.7rem;
+    color: rgb(164, 106, 231);
+}
+
+#modal-texto {
+    font-size: 1.2rem;
+}
+
+#foto2 {
+    background-image: url(../img/ositos-cama.gif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 15rem;
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: 0 0px 15px rgba(0, 0, 0, 0.4);
+}
+
+#tituloCanciones{
+    font-size: 3rem;
+    text-align: center;
+    color: rgb(164, 106, 231);
+    margin-top: 5rem;
+}

@@ -1,0 +1,19 @@
+body {
+    padding: 0;
+}
+
+@media (max-width: 768px) {
+    #parte-3 {
+        display: flex;
+        flex-direction: column;
+        padding-left: 0.5rem;
+        padding-right: 0.5rem;
+        gap: 1.5rem;
+        margin-top: 2.5rem;
+    }
+
+    #parte-3 p {
+        font-size: 1rem;
+        line-height: 1.5rem;
+    }
+}
