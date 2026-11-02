@@ -68,8 +68,13 @@
         gap: 1rem;
     }
 
-    #parte-1 #letraM, #parte-1 #letraJ {
+    #parte-1 #letraM {
         height: 7rem;
+    }
+
+   
+    #parte-1 #letraL {
+        height: 10rem;
     }
 
     #parte-1 #gif-1 {
