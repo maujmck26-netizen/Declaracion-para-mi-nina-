@@ -30,7 +30,7 @@ const datosModales = {
     },
     "m-5": {
         titulo: "Priti - Danny Ocean, Sech",
-        texto: "Q t puedo decir, i want u to be mine and i wanna be urs, let me be ut coffee pot...",
+        texto: "Aunque no lo veas por ahora, te juro que se me nota demasiado que me gustas, me pongo nervioso y todo con vos...",
         img: "",
         spotifyUrl: "https://open.spotify.com/track/4seJa0pAQbNlbhYzxXLvm1?si=77a17da7c7954db9"
     },
