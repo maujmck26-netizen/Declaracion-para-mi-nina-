@@ -5,10 +5,10 @@ const datosModales = {
     "3": { titulo: "tu belleza...", texto: "Cualquier foto que veo tuya es la razón de las únicas sonrisas de cada día. Sos una belleza total, ns si porque estoy enamorado de vos pero al menos para mí sos y siempre serás la mina mas hermosa que existe. No es lo mas importante, desde luego, pero te voy a recordar lo bella que sos cada día, asi como vos me lo recuerdas simplemente eligiendome cada dia.", img: "./img/nota-3.gif" },
     "4": { titulo: "Lo facil que haces todo...", texto: "Con vos todo es tan facil... sonrreir, bromear, pasarla bien, ser tierno, ser molestoso, fantasear con estar juntos... pensar a futuro, pensar en lo que queremos, pensar en lo que haremos cuando nos veamos... con vs es muy facil querer mirar hacia adelante porque me das la seguridad de que no encontraré una mina la mitad de buena que vos... porque nadie se compara a vos, sos perfecta asi como sos, y lo que mas amo de vos es todo lo que sos, cada cosa buena, cada cosa q vs ves como defectos y cada cosa que capaz pensás q es rara pero solo me hacen enamorarme mas de vos.", img: "./img/L-1.jpg" },
     "m-1": {
-        titulo: "Sweater Wheather - The Neighbourhood",
-        texto: "Esta inmediatamente me hace pensar en vs, es la primera q me recomendaste antes de ser novios y bue, ya me gustaba y por vos me encanta aun más...",
+        titulo: "Buscarte Lejos - Duki",
+        texto: "Esta inmediatamente me hace pensar en vs, ya me gustaba pero por vos me encanta aun más...",
         img: "",
-        spotifyUrl: "https://open.spotify.com/embed/track/2QjOHCTQ1Jl3zawyYOpxh6?utm_source=generator"
+        spotifyUrl: "https://open.spotify.com/track/7b9hpzFQJaKUAAKsOeDafS?si=95288ecd480b44c1"
     },
     "m-2": {
         titulo: "Friends - Chase Atlantic",
