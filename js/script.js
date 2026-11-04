@@ -47,22 +47,22 @@ const datosModales = {
         spotifyUrl: "https://open.spotify.com/track/3VduqK7YTkiOAbW1VQN1n1?si=3dbf71c393664474"
     },
     "m-8": {
-        titulo: "Do I Wanna Know? - Artic Monkeys",
-        texto: "Its rlly amazing how u make songs sound very differently, some songs that i would listen to in the past now have color and another meaning to me bc they all make me thing of u...",
+        titulo: "Golpito - Quevedo, Nueva Linea",
+        texto: "La verdad te queria para mí desde hace rato sjajs y soy ateo pero gracias al cielo o a quien sea que por fin te tengo...",
         img: "",
-        spotifyUrl: "https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst?si=9361c6da512a46a8"
+        spotifyUrl: "https://open.spotify.com/track/7Btdfb0u6xW8GNawIvNESw?si=2f9dba4178344276"
     },
     "m-9": {
-        titulo: "R.I.P. 2 My Mouth - The Neighbourhood",
-        texto: "Con vos todo es tan facil... sonrreir, bromear, pasarla bien...",
+        titulo: "Morena - Beéle",
+        texto: "Tengo muchas ganas de hacer mil planes con vos, me volves loco morochita y amo todo lo que tenga q ver con vos, te amo musho...",
         img: "",
-        spotifyUrl: "https://open.spotify.com/track/07VBqWH6NG8L2ad3l84UKk?si=dc88f71cdc6f42e0"
+        spotifyUrl: "https://open.spotify.com/track/4RPeZbmVON5ZKT5HC9wALt?si=5dc3b2c4d82b4d80"
     },
     "m-10": {
-        titulo: "idfc - Blackbear",
-        texto: "Esta suena muy como yo si t soy sincero, no es q me preocupe pero enserio t digo q me da miedo perderte un dia, porque cono vs no hay otra y t quiero a vos solamente, im only a fool with u and for u...",
+        titulo: "Uno+1 - Alleh",
+        texto: "Me encanta tu forma de ser y tu forma de vacilar jsajs amo tu ser, asi como sos, asi tal cual, no hay anda q cambiaria d la preciosura que sos mi diva perfecta...",
         img: "",
-        spotifyUrl: "https://open.spotify.com/track/2Bd8mJDZisp9Sr9coxMfDn?si=0ae7ecc7918442a0"
+        spotifyUrl: "https://open.spotify.com/track/2e7mniXzvypKTn9e0jaeVs?si=bdc51f6d347c4cd0"
     }
 };
 
