@@ -11,28 +11,28 @@ const datosModales = {
         spotifyUrl: "https://open.spotify.com/track/7b9hpzFQJaKUAAKsOeDafS?si=95288ecd480b44c1"
     },
     "m-2": {
-        titulo: "Friends - Chase Atlantic",
-        texto: "Esta fue la priemra canción q me aprendí para vs q d tanto escucharla dije ufff q temazo...",
+        titulo: "Tranqui,, Te Puedes Enamorar - Alleh",
+        texto: "La verdad yo tampoco se dar mucho cariño ni ser muy buen novio ni nada, pero si cuidar lo que amo, y a voy te amo una banda chikita mia...",
         img: "",
-        spotifyUrl: "https://open.spotify.com/embed/track/7uDUb37h7Xdhza1eWMkoJv?utm_source=generator&si=c6fb5a31b3704359"
+        spotifyUrl: "https://open.spotify.com/track/6cwdk6H0Qxpqv5j4NxiQh4?si=02ae9d52d9af4818"
     },
     "m-3": {
         titulo: "La Ciudad - Alleh, Gus",
-        texto: "Esta es d mis favoritas de Alleh y es re yo porque antes queria solo y ahora me muero darte la vida que soñaste llena de muchisimo amor...",
+        texto: "Esta es d mis favoritas de Alleh y es re yo porque antes queria solo y ahora me muero darte la vida que soñaste llena de td el amor q t merecés...",
         img: "",
         spotifyUrl: "https://open.spotify.com/track/4RQD8RLuRAbBoOpTBVtO8D?si=532d2332b3994deb"
     },
     "m-4": {
         titulo: "305 - Shawn Mendes",
-        texto: "Esta canción recuerdo q la escuchaba mucho y ns pq siempre me gustó mucho, es d las canciones q repetí d Shawn Mendes la vrd, y q habla d como estoy con vs...",
+        texto: "Esta canción recuerdo q la escuchaba mucho y ns pq siempre me gustó mucho, es d las canciones q más repetí d Shawn Mendes la vrd, y q habla d como estoy con vs...",
         img: "",
         spotifyUrl: "https://open.spotify.com/track/5ld8E3DVBXCCWQ54yrkWVp?si=ecee9232346d46cb"
     },
     "m-5": {
-        titulo: "I Wanna Be Yours - Artic Monkeys",
+        titulo: "Priti - Danny Ocean, Sech",
         texto: "Q t puedo decir, i want u to be mine and i wanna be urs, let me be ut coffee pot...",
         img: "",
-        spotifyUrl: "https://open.spotify.com/embed/track/5XeFesFbtLpXzIVDNQP22n?utm_source=generator&si=33c927f623e84eca"
+        spotifyUrl: "https://open.spotify.com/track/4seJa0pAQbNlbhYzxXLvm1?si=77a17da7c7954db9"
     },
     "m-6": {
         titulo: "Tomorrow - Fly By Midnight",
